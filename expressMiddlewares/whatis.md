@@ -1,0 +1,1 @@
+Middleware => A function or program that runs between the time the server gets the request and server sends the request out to the client.
